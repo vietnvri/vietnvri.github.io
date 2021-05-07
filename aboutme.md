@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Về nhóm mình
+subtitle: Kiên định
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Blog này lập ra để làm gì?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Lưu trữ kiến thức cá nhân
+- Giao lưu, học hỏi từ các bạn ghé thăm
+- __*Welcom các mối quan hệ hợp tác, phát triển sản phẩm, phục vụ con người, phục vụ quê hương*__ 
 
-What else do you need?
 
-### My story
+### Về nhóm mình
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Tốt nghiệp các Trường khác nhau, nhưng có duyên gặp gỡ, trải qua cùng nhau trong một vài dự án, đồng sức đồng lòng,
+mong muốn được đóng góp nhiều hơn cho xã hội.
