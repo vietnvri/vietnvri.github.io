@@ -18,3 +18,4 @@ sử dụng các quy luật này để đưa ra những hành động hợp lý 
 Ví dụ bài toán nhận dạng chữ số viết tay, minh họa trong hình dưới đây:
  ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 Mỗi chữ số tương ứng với $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
+Some inline Latex: $$a^2 + b^2 = c^2$$
