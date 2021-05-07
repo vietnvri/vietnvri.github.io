@@ -15,10 +15,10 @@ luật chuyển động của các hành tinh. Tương tự, việc khám phá r
 đóng góp một vai trò quan trọng trong quá trình phát triển vật lý lượng tử đầu thế kỷ 20. Lĩnh vực _pattern recognition_ 
 được xem như việc khám phá ra các quy luật trong _data_ thông qua các thuật toán máy tính và với việc
 sử dụng các quy luật này để đưa ra những hành động hợp lý như phân loại _data_ vào các lớp (_categories_)
-
+![Dữ liệu MNIST \label{mnist}](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg "Tập dữ liệu")
 Ví dụ bài toán nhận dạng chữ số viết tay, minh họa trong hình \ref{mnist}:
 
-![Dữ liệu MNIST \label{mnist}](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg "Tập dữ liệu")
+
 
 
 Mỗi chữ số tương ứng với 
