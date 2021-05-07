@@ -1,17 +1,20 @@
 ---
 layout: post
-title: 
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+title: Introduction
+subtitle: Chương 1 sách Pattern Recognition and Machine Learning
+cover-img: /assets/img/chapter_1.png
+thumbnail-img: /assets/img/chapter_1.png
+share-img: /assets/img/chapter_1.png
+tags: [books, Pattern Recognition and Machine Learning]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Bài toán tìm kiếm mẫu (_pattern_) trên tập dữ liệu (_data_) là bài toán cơ bản và có bề dày lịch sử.
+Ví dụ việc quan sát thiên văn của Tycho Brahe trong thế kỷ 16 đã cho phép Johannes Kepler khám phá ra quy
+luật chuyển động của các hành tinh. Tương tự, việc khám phá ra các quy luật trong hiện tượng quang phổ đã
+đóng góp một vai trò quan trọng trong quá trình phát triển vật lý lượng tử đầu thế kỷ 20. Lĩnh vực _pattern recognition_ 
+được xem như việc khám phá ra các quy luật trong _data_ thông qua các thuật toán máy tính và với việc
+sử dụng các quy luật này để đưa ra những hành động hợp lý như phân loại _data_ vào các lớp (_categories_)
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
-
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Ví dụ bài toán nhận dạng chữ số viết tay, minh họa trong hình dưới đây:
+ ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+Mỗi chữ số tương ứng với $\prod_{x = a}^{b} f(x)$
