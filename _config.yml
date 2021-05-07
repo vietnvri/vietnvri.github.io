@@ -191,7 +191,7 @@ date_format: "%B %-d, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
-markdown: kramdown
+markdown: Pandoc
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
@@ -229,9 +229,17 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+gems:
+  - jekyll-pandoc
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+pandoc:
+  extensions:
+    - normalize
+    - smart
+    - mathjax
+    - csl: _styles/apa.csl
+    - bibliography: bibliography/references.bib
 
 # Build settings
 #markdown: kramdown
