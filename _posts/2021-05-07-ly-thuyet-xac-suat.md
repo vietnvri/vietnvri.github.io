@@ -2,6 +2,7 @@
 layout: post
 title: Introduction
 subtitle: Chương 1 sách Pattern Recognition and Machine Learning
+usemathjax: true
 cover-img: /assets/img/chapter_1.png
 thumbnail-img: /assets/img/chapter_1.png
 share-img: /assets/img/chapter_1.png
@@ -18,6 +19,7 @@ sử dụng các quy luật này để đưa ra những hành động hợp lý 
 Ví dụ bài toán nhận dạng chữ số viết tay, minh họa trong hình dưới đây:
  ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 Mỗi chữ số tương ứng với
+$$E=mc^2$$
 
 
 Some inline Latex: $$a^2 + b^2 = c^2$$
